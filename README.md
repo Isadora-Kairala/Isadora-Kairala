@@ -1,6 +1,6 @@
 ##  👩🏻‍💻Isadora Kairala
 
-Sou estudante de Ciência da Computação e uma pessoa que ama aprender. Estou constantemente em busca de novos conhecimentos e desafios, sempre desenvolvendo projetos para colocar em prática o que estudo. Tenho uma forte conexão com o mundo da tecnologia e, no momento, estou focando meus estudos na área de back-end com JavaScript.
+Sou estudante de Ciência da Computação e uma pessoa que ama aprender. Estou constantemente em busca de novos conhecimentos e desafios, sempre desenvolvendo projetos para colocar em prática o que estudo. Tenho uma forte conexão com o mundo da tecnologia e, no momento, estou focando meus estudos na área de back-end.
 ##
 
 ### 📊Stats
