@@ -7,8 +7,8 @@ Sou estudante de Ciência da Computação e uma pessoa que ama aprender. Estou c
 
 <div>
  <a href="https://github.com/Isadora-Kairala"> 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Isadora-Kairala&show_icons=true&theme=transparent&cache_bust=1"/>   
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora-Kairala&layout=compact&theme=transparent"/>
+<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Isadora-Kairala&show_icons=true&theme=transparent&cache_bust=1"/>   
+<img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora-Kairala&layout=compact&theme=transparent"/>
 </div>
 
 ### ⚙️Technologies 
