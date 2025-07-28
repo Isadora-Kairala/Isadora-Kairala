@@ -11,6 +11,7 @@ Sou estudante de Ciência da Computação e uma pessoa que ama aprender. Estou c
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora-Kairala&layout=compact&theme=transparent"/>
 </div>
 
+### ⚙️Technologies 
 <div style="display: inline_block"><br>
 <img align="center" alt="isa-js" height="40" width="40"  border-radius="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" alt="isa-html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
