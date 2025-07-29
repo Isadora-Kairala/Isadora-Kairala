@@ -1,6 +1,7 @@
 ##  👩🏻‍💻Isadora Kairala
 
-Sou estudante de Ciência da Computação e uma pessoa que ama aprender. Estou constantemente em busca de novos conhecimentos e desafios, sempre desenvolvendo projetos para colocar em prática o que estudo. Tenho uma forte conexão com o mundo da tecnologia e, no momento, estou focando meus estudos na área de back-end.
+Olá! Meu nome é Isadora, tenho 19 anos e atualmente estou cursando Ciência da Computação. Desde cedo, sempre tive uma conexão intensa com a tecnologia. 
+No momento, estou focando meus estudos no desenvolvimento Full Stack, buscando dominar tanto o front-end quanto o back-end para construir soluções completas e bem estruturadas.
 ##
 
 ### 📊Stats
