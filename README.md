@@ -13,8 +13,7 @@ Sou estudante de Ciência da Computação e uma pessoa que ama aprender. Estou c
 
 ### ⚙️Technologies 
 <div style="display: inline_block"><br>
-<img align="center" alt="isa-js" height="40" width="40"  border-radius="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="center" alt="isa-js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />         
+<img align="center" alt="isa-js" height="40" width="40"  border-radius="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />         
 <img align="center" alt="isa-html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="center" alt="isa-css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="center" alt="isa-vs" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
