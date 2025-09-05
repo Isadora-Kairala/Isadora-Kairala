@@ -9,7 +9,7 @@ No momento, estou focando meus estudos no desenvolvimento Full Stack, buscando d
 <div>
  <a href="https://github.com/Isadora-Kairala"> 
 <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Isadora-Kairala&show_icons=true&theme=holi&cache_bust=1"/>   
-<img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora-Kairala&layout=compact&theme=holi&cache_bust=1"/>
+<img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora-Kairala&hide_progress=true&theme=holi&cache_seconds=300"/>
 </div>
 
 ### ⚙️Technologies 
