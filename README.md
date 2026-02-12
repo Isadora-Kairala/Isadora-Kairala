@@ -1,8 +1,6 @@
 ##  👩🏻‍💻Isadora Kairala
 
-Olá! Meu nome é Isadora, tenho 19 anos e atualmente estou cursando Ciência da Computação. Desde cedo, sempre tive uma conexão intensa com a tecnologia. 
-No momento, estou focando meus estudos no desenvolvimento Full Stack, buscando dominar tanto o front-end quanto o back-end para construir soluções completas e bem estruturadas.
-##
+Olá! Meu nome é Isadora, tenho 19 anos e atualmente estou no 3° semestre de  Ciência da Computação. No momento, estou focando meus estudos no desenvolvimento Full Stack, porém tenho muita curiosidade na área de Cybersecurity.
 
 ### 📊Stats
 
