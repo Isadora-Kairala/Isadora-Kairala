@@ -33,7 +33,12 @@ Olá! Meu nome é Isadora, tenho 19 anos e atualmente estou no 3° semestre de  
 <a href="https://www.linkedin.com/in/isadora-kairala-630530359" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/> 
 <a href="https://www.instagram.com/dorakai_?igsh=MW1iaHQ5YjUyMHBvdQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a/> 
 </div>
-      
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
           
           
           
