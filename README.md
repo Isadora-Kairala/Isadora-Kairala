@@ -37,6 +37,10 @@ Olá! Meu nome é Isadora, tenho 19 anos e atualmente estou no 3° semestre de  
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+<p align="center"> 
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=marinanevesa&label=Perfil%20Visualizado%20&color=8A2BE2&style=flat" alt="Contador de Visitas" />
+</p>
           
           
           
