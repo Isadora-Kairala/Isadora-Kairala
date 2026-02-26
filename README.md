@@ -2,6 +2,16 @@
 
 Olá! Meu nome é Isadora, tenho 19 anos e atualmente estou no 3° semestre de  Ciência da Computação. No momento, estou focando meus estudos no desenvolvimento Full Stack, porém tenho muita curiosidade na área de Cybersecurity.
 
+### 📊Stats
+
+<div>
+
+ <a href="https://github.com/Isadora-Kairala"> 
+ <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isadora-Kairala&theme=holi&cache_seconds=300"/>
+ <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isadora-Kairala&theme=holi&cache_seconds=300"/>
+ 
+</div>
+
 
 ### ⚙️Technologies 
 <div style="display: inline_block"><br>
@@ -41,12 +51,7 @@ Olá! Meu nome é Isadora, tenho 19 anos e atualmente estou no 3° semestre de  
   <br>
   <img src="https://komarev.com/ghpvc/?username=Isadora-Kairala&label=Perfil%20Visualizado%20&color=8A2BE2&style=flat" alt="Contador de Visitas" />
 </p>
-          
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isadora-Kairala&theme=nightowl"/>
-</p>
-          
+             
         
           
           
