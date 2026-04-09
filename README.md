@@ -1,6 +1,6 @@
 ##  👩🏻‍💻Isadora Kairala
 
-Olá! Meu nome é Isadora, tenho 19 anos e atualmente estou no 3° semestre de  Ciência da Computação. No momento, estou focando meus estudos em desenvolvimento Java e Cybersegurança!! Veja alguns projetos meus logo abaixo. 
+Olá! Meu nome é Isadora, tenho 19 anos e atualmente estou no 3° semestre de  Ciência da Computação. No momento, estou focando meus estudos em desenvolvimento Java e Cybersegurança!! Veja alguns dos meus projetos meus logo abaixo. 
 
 ### 📊Stats
 
