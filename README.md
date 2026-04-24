@@ -15,7 +15,7 @@ Olá! Meu nome é Isadora, tenho 19 anos e atualmente estou no 3° semestre de  
 
 ### ⚙️ Technologies 
 
-<div align="center">
+<div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/>
