@@ -7,8 +7,8 @@ Olá! Meu nome é Isadora, tenho 19 anos e atualmente estou no 3° semestre de  
 <div>
 
  <a href="https://github.com/Isadora-Kairala"> 
- <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isadora-Kairala&theme=holi&cache_seconds=300"/>
- <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isadora-Kairala&theme=holi&cache_seconds=300"/>
+ <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isadora-Kairala&theme=holi&cache_seconds=60"/>
+ <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isadora-Kairala&theme=holi&cache_seconds=60"/>
  
 </div>
 
