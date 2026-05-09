@@ -14,11 +14,14 @@
   Veja alguns dos meus projetos logo abaixo 🚀
 
 
-<p align="center">
- 
-## 📊Stats
 
-</p>
+ <br>
+ <br>
+
+ 
+<h2 align="center">📊Stats</h2>
+
+
 
 <div>
 
@@ -28,9 +31,11 @@
  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isadora-Kairala&theme=holi&cache_seconds=60"/>
  </p>
 </div>
+   
+<br>
+<br>
 
-
-### ⚙️ Technologies 
+<h2 align="center">⚙️ Technologies </h2>
 
 <div align="center">
 
