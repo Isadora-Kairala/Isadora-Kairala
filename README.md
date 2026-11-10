@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Atualmente no 3° semestre de Ciência da Computação, focando meus estudos em desenvolvimento Java e Cybersegurança.
+  Atualmente no 4° semestre de Ciência da Computação, focando meus estudos em desenvolvimento Java e Cybersegurança.
   <br>
   Veja alguns dos meus projetos logo abaixo 🚀
 
